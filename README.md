@@ -187,5 +187,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Documentation](https://hexdocs.pm/ex_esdb_grpc)
 - [Hex Package](https://hex.pm/packages/ex_esdb_grpc)
 - [GitHub](https://github.com/beam-campus/ex-esdb-grpc)
-- [ExESDB Core](https://github.com/beam-campus/ex-esdb-gater)
-- [ExESDB Dashboard](https://github.com/beam-campus/ex-esdb-dashboard)
+- [ExESDB Gater - Gateway API and Load Balancer](https://github.com/beam-campus/ex-esdb-gater)
+- [ExESDB Admin Dashboard](https://github.com/beam-campus/ex-esdb-dashboard)
